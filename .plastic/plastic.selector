@@ -1,0 +1,4 @@
+repository "Intro to Unity3d@ssl://unclebear1@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/daydreamer.chen01" 
+     
