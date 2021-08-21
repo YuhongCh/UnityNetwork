@@ -1,0 +1,16 @@
+C:\Users\CYH\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.csprojAssemblyReference.cache
+C:\Users\CYH\source\repos\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\CYH\source\repos\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+C:\Users\CYH\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.Properties.Resources.resources
+C:\Users\CYH\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.GenerateResource.cache
+C:\Users\CYH\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\CYH\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\CYH\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.pdb
+C:\Users\CYH\Desktop\Personal Item\Unity_relevant\EchoServer\EchoServer\obj\Debug\EchoServer.csprojAssemblyReference.cache
+C:\Users\CYH\Desktop\Personal Item\Unity_relevant\EchoServer\EchoServer\obj\Debug\EchoServer.Properties.Resources.resources
+C:\Users\CYH\Desktop\Personal Item\Unity_relevant\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.GenerateResource.cache
+C:\Users\CYH\Desktop\Personal Item\Unity_relevant\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\CYH\Desktop\Personal Item\Unity_relevant\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\CYH\Desktop\Personal Item\Unity_relevant\EchoServer\EchoServer\obj\Debug\EchoServer.pdb
+C:\Users\CYH\Desktop\Personal Item\Unity_relevant\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\CYH\Desktop\Personal Item\Unity_relevant\EchoServer\EchoServer\bin\Debug\EchoServer.pdb

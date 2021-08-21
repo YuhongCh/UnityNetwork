@@ -1,0 +1,7 @@
+C:\Users\CYH\source\repos\EchoServer\EchoServer\bin\Release\EchoServer.exe
+C:\Users\CYH\source\repos\EchoServer\EchoServer\bin\Release\EchoServer.pdb
+C:\Users\CYH\source\repos\EchoServer\EchoServer\obj\Release\EchoServer.Properties.Resources.resources
+C:\Users\CYH\source\repos\EchoServer\EchoServer\obj\Release\EchoServer.csproj.GenerateResource.cache
+C:\Users\CYH\source\repos\EchoServer\EchoServer\obj\Release\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\CYH\source\repos\EchoServer\EchoServer\obj\Release\EchoServer.exe
+C:\Users\CYH\source\repos\EchoServer\EchoServer\obj\Release\EchoServer.pdb
