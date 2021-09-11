@@ -1151,7 +1151,7 @@ CapsuleCollider:
   m_Enabled: 1
   m_Radius: 0.23233461
   m_Height: 1.6208811
-  m_Direction: 1
+  m_Direction: 0
   m_Center: {x: 0.055963755, y: 0.7803807, z: 0.0645566}
 --- !u!95 &3594127076208045116
 Animator:
@@ -2029,6 +2029,8 @@ GameObject:
   m_Component:
   - component: {fileID: 5804928961688973098}
   - component: {fileID: 331410590662510432}
+  - component: {fileID: 5762043317337527201}
+  - component: {fileID: 6649214073542258627}
   m_Layer: 0
   m_Name: Beta_Joints
   m_TagString: Untagged
@@ -2154,6 +2156,32 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.065371126, y: -0.1632263, z: 0.13591333}
     m_Extent: {x: 0.5481496, y: 0.7226013, z: 0.2988116}
   m_DirtyAABB: 0
+--- !u!135 &5762043317337527201
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7692872559662319634}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.05886507
+  m_Center: {x: 0.050179005, y: 1.0464878, z: 0.5491047}
+--- !u!135 &6649214073542258627
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7692872559662319634}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.06431222
+  m_Center: {x: 0.3456285, y: 1.0700101, z: 0.21828198}
 --- !u!1 &7748434434550305520
 GameObject:
   m_ObjectHideFlags: 0

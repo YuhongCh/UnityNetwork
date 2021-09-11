@@ -48,7 +48,7 @@ public class CtrlHuman : BaseHuman
             Ray ray = playerCamera.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
             Physics.Raycast(ray, out hit);
-            transform.LookAt(hit.point);
+            transform.LookAt(new Vector3(hit.point.x, 3.5f, hit.point.z));
             Attack();
 
             // send attack info to server
